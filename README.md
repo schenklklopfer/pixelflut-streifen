@@ -12,4 +12,4 @@
 
 ## You may want to do
 
-`mount -o size=100M -t tmpfs none /mnt/tmpfs
+`mount -o size=100M -t tmpfs none /mnt/tmpfs`
