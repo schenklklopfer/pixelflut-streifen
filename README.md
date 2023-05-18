@@ -9,6 +9,9 @@ Oder in Docker: https://github.com/Poeschl/docker-shoreline
 
 ### Wie mache ich Multi-Threading aus?
 
+Entfernt das `&` in Zeile 24! Aber Achtung, wird dann extrem lahm.
+https://github.com/schenklklopfer/pixelflut-streifen/blob/a946c04c965372f75947b3f5596c19662b11e9fc/pixel.sh#L24
+
 ## Dependencies
 
 - bash
