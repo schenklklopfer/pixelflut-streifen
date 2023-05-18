@@ -25,3 +25,7 @@ https://github.com/schenklklopfer/pixelflut-streifen/blob/a946c04c965372f75947b3
 ## You may want to do
 
 `mount -o size=100M -t tmpfs none /mnt/tmpfs`
+
+## Sieht dann so aus
+
+![Beispiel](image.png?raw=true "Beispiel")
